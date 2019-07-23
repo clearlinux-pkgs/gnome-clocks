@@ -1,0 +1,9 @@
+3.32.0
+geoclue-dev
+gnome-desktop-dev
+gsound-dev
+libgweather-dev
+pkgconfig(gnome-desktop-3.0)
+pkgconfig(gsound)
+pkgconfig(gweather-3.0)
+pkgconfig(libgeoclue-2.0)
