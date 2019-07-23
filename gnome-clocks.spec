@@ -4,10 +4,10 @@
 #
 Name     : gnome-clocks
 Version  : 3.32.0
-Release  : 1
+Release  : 2
 URL      : https://download.gnome.org/sources/gnome-clocks/3.32/gnome-clocks-3.32.0.tar.xz
 Source0  : https://download.gnome.org/sources/gnome-clocks/3.32/gnome-clocks-3.32.0.tar.xz
-Summary  : No detailed summary available
+Summary  : Clocks applications for GNOME
 Group    : Development/Tools
 License  : GPL-2.0
 Requires: gnome-clocks-bin = %{version}-%{release}
@@ -81,7 +81,7 @@ export http_proxy=http://127.0.0.1:9/
 export https_proxy=http://127.0.0.1:9/
 export no_proxy=localhost,127.0.0.1,0.0.0.0
 export LANG=C.UTF-8
-export SOURCE_DATE_EPOCH=1563893146
+export SOURCE_DATE_EPOCH=1563907925
 export GCC_IGNORE_WERROR=1
 export AR=gcc-ar
 export RANLIB=gcc-ranlib
