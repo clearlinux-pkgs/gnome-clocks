@@ -1,5 +1,4 @@
 libc.so.6
-libcairo.so.2
 libgdk-3.so.0
 libgeoclue-2.so.0
 libgeocode-glib.so.0
