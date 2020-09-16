@@ -1,12 +1,11 @@
-3.36.2
+3.38.0
 appstream-glib
 geoclue-dev
 gnome-desktop-dev
 gsound-dev
 libgweather-dev
-libhandy-dev
 pkgconfig(gnome-desktop-3.0)
 pkgconfig(gsound)
 pkgconfig(gweather-3.0)
 pkgconfig(libgeoclue-2.0)
-pkgconfig(libhandy-0.0)
+pkgconfig(libhandy-1)
