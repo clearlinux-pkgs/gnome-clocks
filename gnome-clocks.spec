@@ -4,7 +4,7 @@
 #
 Name     : gnome-clocks
 Version  : 3.38.0
-Release  : 8
+Release  : 9
 URL      : https://download.gnome.org/sources/gnome-clocks/3.38/gnome-clocks-3.38.0.tar.xz
 Source0  : https://download.gnome.org/sources/gnome-clocks/3.38/gnome-clocks-3.38.0.tar.xz
 Summary  : No detailed summary available
