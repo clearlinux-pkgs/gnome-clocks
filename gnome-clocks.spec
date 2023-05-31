@@ -5,7 +5,7 @@
 #
 Name     : gnome-clocks
 Version  : 44.0
-Release  : 30
+Release  : 31
 URL      : https://download.gnome.org/sources/gnome-clocks/44/gnome-clocks-44.0.tar.xz
 Source0  : https://download.gnome.org/sources/gnome-clocks/44/gnome-clocks-44.0.tar.xz
 Summary  : No detailed summary available
