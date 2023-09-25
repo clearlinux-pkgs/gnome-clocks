@@ -1,5 +1,5 @@
 PKG_NAME := gnome-clocks
-URL = https://download.gnome.org/sources/gnome-clocks/44/gnome-clocks-44.0.tar.xz
+URL = https://download.gnome.org/sources/gnome-clocks/45/gnome-clocks-45.0.tar.xz
 ARCHIVES = 
 
 include ../common/Makefile.common

@@ -1,9 +1,7 @@
-44.0
+45.0
 appstream-glib
 geoclue-dev
-gsound-dev
 pkgconfig(gnome-desktop-4)
-pkgconfig(gsound)
 pkgconfig(gweather4)
 pkgconfig(libadwaita-1)
 pkgconfig(libgeoclue-2.0)
